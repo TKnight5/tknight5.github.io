@@ -1,0 +1,17 @@
+p {
+	font-size: 150%;
+}
+
+table, th, td {
+  border:1px solid black;
+}
+
+td {
+  text-align: center;
+  font-size: 150%;
+}
+
+.month {
+  text-align: center;
+  font-size: 35px;
+}
